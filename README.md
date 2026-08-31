@@ -1,4 +1,4 @@
-### Hi, there! It's Sunny! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=sunnyData554-eng&color=yellow)</div>
+### Hi, there! It's Sunny! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=sunnysingh-analytics05g&color=yellow)</div>
 
 
 ## 🚀 About Me
@@ -52,4 +52,4 @@ I'm currently building my skills in AI-powered analytics, advanced SQL, business
 
 
 
-❤ [By Sunny Singh](https://github.com/sunny-singh05/)
+❤ [By Sunny Singh](https://github.com/sunnysingh-analytics05/)
